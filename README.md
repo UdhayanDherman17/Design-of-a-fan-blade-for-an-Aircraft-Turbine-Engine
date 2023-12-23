@@ -1,6 +1,6 @@
 # Design-of-a-fan-blade-for-an-Aircraft-Turbine-Engine
 
-THE RESEARCH PAPER IS ATTACHED TO THE REPO
+THE RESEARCH PAPER IS ATTACHED TO THE REPO (18-pages)
 
 This paper discusses the several design criteria that need to be considered during the selection
 process of an appropriate material for a blade of an aircraft turbine engine. It is explained how
