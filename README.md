@@ -7,4 +7,4 @@ properties regarding the safety of the appropriate material for the blade are ex
 compared for different materials. The best overall material of Carbon Fiber Reinforced
 Composites was accordingly with an appropriate justification for our selection
 
-![](Host-Images/downlaod.png)
+![](Host-Images/download.jpg)
