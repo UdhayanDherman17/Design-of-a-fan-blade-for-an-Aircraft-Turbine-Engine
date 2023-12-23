@@ -6,3 +6,5 @@ safety is the largest determining factor for most of the design criteria. Severa
 properties regarding the safety of the appropriate material for the blade are explained and
 compared for different materials. The best-overall material of Carbon Fiber Reinforced
 Composites was accordingly with an appropriate justification for our selection
+
+![](Host-img/images.jpeg)
