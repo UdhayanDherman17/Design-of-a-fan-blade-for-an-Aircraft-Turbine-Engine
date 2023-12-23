@@ -1,5 +1,7 @@
 # Design-of-a-fan-blade-for-an-Aircraft-Turbine-Engine
 
+PAPER IS ATTACHED TO REPO
+
 This paper discusses the several design criteria that need to be considered during the selection
 process of an appropriate material for a blade of an aircraft turbine engine. It is explained how
 safety is the largest determining factor for most of the design criteria. Several mechanical
